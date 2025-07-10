@@ -3,7 +3,7 @@
 Repository Components:
 ✅ Advanced Python Concepts
 
-✅ Classes and Inheritance
+✅ OOPs and Inheritance
 
 ✅ Mini Projects
   Car_Game
